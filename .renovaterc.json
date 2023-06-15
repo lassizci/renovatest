@@ -1,4 +1,5 @@
 {
+  "additionalBranchPrefix": "{{parentDir}}-",
   "regexManagers": [
     {
       "fileMatch": ["^.*\\.yaml$"],
