@@ -1,3 +1,3 @@
 ---
 # renovate: datasource=docker depName=neondatabase/neon versioning=regex:^release-(?<major>\d+)$
-neon_version: release-3277
+neon_version: release-5147
